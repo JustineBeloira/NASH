@@ -31,8 +31,8 @@ module.exports = {
 ➥ 📅 *Date:* ${date}
 ➥ ⏰ *Time:* ${time}
 
-Have fun using it, enjoy! ❤️
-Bot Developer: joshua Apostol
+Have fun using it, enjoy! 🤍
+Bot Developer: 𝙅𝙪𝙨𝙩𝙞𝙣𝙚 𝘽𝙚𝙡𝙤𝙞𝙧𝙖
           `;
 
           return api.sendMessage(userResponse, event.threadID);
@@ -55,8 +55,8 @@ Bot Developer: joshua Apostol
 ➥ 📅 *Date:* ${date}
 ➥ ⏰ *Time:* ${time}
 
-Have fun using it, enjoy! ❤️
-Bot Developer: joshua Apostol
+Have fun using it, enjoy! 🤍
+Bot Developer: 𝙅𝙪𝙨𝙩𝙞𝙣𝙚 𝘽𝙚𝙡𝙤𝙞𝙧𝙖
           `;
 
           return api.sendMessage(userResponse, event.threadID);
@@ -81,8 +81,8 @@ Bot Developer: joshua Apostol
 ➥ 📅 *Date:* ${date}
 ➥ ⏰ *Time:* ${time}
 
-Have fun using it, enjoy! ❤️
-Bot Developer: joshua Apostol
+Have fun using it, enjoy! 🤍
+Bot Developer: 𝙅𝙪𝙨𝙩𝙞𝙣𝙚 𝘽𝙚𝙡𝙤𝙞𝙧𝙖
           `;
 
           api.sendMessage(userResponse, event.threadID);
